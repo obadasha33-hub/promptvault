@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2026-06-22
+
+### Added
+- **Cosmic Star Dust Engine**: Built the `<StarDustCanvas />` canvas particle engine that dynamically interacts with mouse movement and emits custom, theme-synced HSL particle streams.
+- **Arabic RTL Layout Support**: Enabled document-level direction toggling `dir="rtl"` alongside localized strings mapping for full right-to-left layout compliance.
+- **Terminal Mock Security Auth Gate**: Developed a glassmorphic mock security console terminal to show live connection diagnostics, current encryption state telemetry, and security status symbols for logged-out states.
+- **Professional Project Documentation**: Wrote and detailed a professional `README.md` containing core features, repository topology, configuration parameters, and execution instructions.
+- **GitHub Integration**: Configured remote tracking and successfully pushed the codebase to `https://github.com/obadasha33-hub/promptvault.git`.
+
+### Changed
+- **Creative Sandbox Routing**: Removed all navigation buttons and links to `/creative` from the main landing page `/` (header, footers, mobile tabs) to restrict public visibility of the creative sandbox workspace.
+
 ## [1.0.0] - 2026-06-21
 
 ### Added
