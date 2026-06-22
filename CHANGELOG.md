@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Professional Project Documentation**: Wrote and detailed a professional `README.md` containing core features, repository topology, configuration parameters, and execution instructions.
 - **GitHub Integration**: Configured remote tracking and successfully pushed the codebase to `https://github.com/obadasha33-hub/promptvault.git`.
 - **Photo Editing Preview Assets**: Restored all high-resolution image URL attachments (`/uploads/edit_*.jpg`) for the 100 prompts under the `Photo Editing` category.
+- **Nebula Space Theme**: Redesigned the default styling configurations to introduce a pitch-black background matched with high-contrast vibrant purple, blue, and pink stardust particles.
 
 ### Removed
 - **Creative Sandbox Mode**: Deleted the `src/app/creative` route directory and cleaned up all references and compiling cached type declarations, fully purging the creative sandbox from the project.
