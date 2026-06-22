@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+@import "tailwindcss";
+
+:root, html[data-theme='neon'] {
+  --background: #060811;
+  --foreground: #dfe2f1;
+  --neon-cyan: #89AACC;
+  --neon-blue: #4E85BF;
+  --border-glow: rgba(137, 170, 204, 0.15);
+  --glow-1: rgba(76, 215, 246, 0.04);
+  --glow-2: rgba(208, 188, 255, 0.04);
+  --glow-3: rgba(255, 185, 95, 0.03);
+  --panel-bg: rgba(9, 13, 28, 0.7);
+  --card-bg: rgba(15, 20, 38, 0.85);
+  --input-bg: rgba(0, 0, 0, 0.55);
+}
+
+html[data-theme='cyberpunk'] {
+  --background: #0f051d;
+  --foreground: #f8f0ff;
+  --neon-cyan: #ff007f;
+  --neon-blue: #ffea00;
+  --border-glow: rgba(255, 0, 127, 0.25);
+  --glow-1: rgba(255, 0, 127, 0.06);
+  --glow-2: rgba(255, 234, 0, 0.05);
+  --glow-3: rgba(15, 5, 29, 0.03);
+  --panel-bg: rgba(26, 9, 44, 0.75);
+  --card-bg: rgba(35, 12, 59, 0.85);
+  --input-bg: rgba(15, 5, 29, 0.65);
+}
+
+html[data-theme='terminal'] {
+  --background: #000000;
+  --foreground: #00ff66;
+  --neon-cyan: #ffb000;
+  --neon-blue: #00ff66;
+  --border-glow: rgba(0, 255, 102, 0.25);
+  --glow-1: rgba(0, 255, 102, 0.08);
+  --glow-2: rgba(255, 176, 0, 0.06);
+  --glow-3: rgba(0, 0, 0, 0);
+  --panel-bg: rgba(10, 15, 10, 0.85);
+  --card-bg: rgba(15, 25, 15, 0.9);
+  --input-bg: rgba(0, 5, 0, 0.8);
+}
+
+html[data-theme='alabaster'] {
+  --background: #f4f4f5; /* Soft gray body background to reduce glare */
+  --foreground: #18181b; /* Dark charcoal text */
+  --neon-cyan: #2563eb; /* Sapphire blue accent */
+  --neon-blue: #1d4ed8; /* Deep sapphire */
+  --border-glow: rgba(37, 99, 235, 0.08);
+  --glow-1: rgba(0, 0, 0, 0.02);
+  --glow-2: rgba(0, 0, 0, 0.01);
+  --glow-3: rgba(255, 255, 255, 0.95);
+  --panel-bg: rgba(255, 255, 255, 0.95); /* Bright white glass panel */
+  --card-bg: #ffffff; /* Pure white card surface for maximum text contrast */
+  --input-bg: #ffffff; /* Pure white input background */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-panel: var(--panel-bg);
+  --color-card: var(--card-bg);
+  --color-input-custom: var(--input-bg);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-neon-cyan: var(--neon-cyan);
+  --color-neon-blue: var(--neon-blue);
+  --color-border-glow: var(--border-glow);
+}
+
+body {
+  background-color: var(--background);
+  background-image: 
+    radial-gradient(at 0% 0%, var(--glow-1) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, var(--glow-2) 0px, transparent 50%),
+    radial-gradient(at 50% 100%, var(--glow-3) 0px, transparent 50%);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+/* Glassmorphism Panel Utilities */
+.glass-panel {
+  background: rgba(23, 27, 38, 0.4);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-panel-glow {
+  background: rgba(23, 27, 38, 0.6);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(76, 215, 246, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(76, 215, 246, 0.05);
+}
+
+/* Pulsing Neon Glow Keyframes */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(76, 215, 246, 0.15);
+    border-color: rgba(76, 215, 246, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(76, 215, 246, 0.35);
+    border-color: rgba(76, 215, 246, 0.4);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 4s infinite ease-in-out;
+}
+
+/* Floating Component Animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-float {
+  animation: float 6s infinite ease-in-out;
+}
+
+/* Custom Scrollbar styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(15, 19, 29, 0.3);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(76, 215, 246, 0.3);
+}
+
+/* Spotlight Card Hover effect */
+.spotlight-card {
+  position: relative;
+}
+.spotlight-card::before {
+  content: '';
+  position: absolute;
+  inset: 0px;
+  border-radius: inherit;
+  background: radial-gradient(
+    450px circle at var(--mouse-x, 0px) var(--mouse-y, 0px),
+    var(--border-glow),
+    transparent 35%
+  );
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.spotlight-card:hover::before {
+  opacity: 1;
+}
+
+/* WCAG Contrast compliance overrides for Alabaster Light Mode (E-Book Classic Theme) */
+html[data-theme='alabaster'] .text-slate-400 {
+  color: #27272a !important; /* Zinc-800 for extremely readable descriptions */
+}
+html[data-theme='alabaster'] .text-slate-500 {
+  color: #18181b !important; /* Zinc-900 */
+}
+html[data-theme='alabaster'] .text-slate-300 {
+  color: #09090b !important; /* Zinc-950 */
+}
+html[data-theme='alabaster'] .text-slate-200 {
+  color: #000000 !important; /* Pure black */
+}
+
+/* Progressive Theme Gradients */
+.bg-radial-glow-void {
+  background-color: #02040a;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(37, 99, 235, 0.08) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(99, 102, 241, 0.08) 0px, transparent 50%),
+    radial-gradient(at 50% 100%, rgba(8, 13, 34, 0.95) 0px, transparent 50%);
+}
+
+.bg-aurora-gradient {
+  background-color: #020f0c;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(16, 185, 129, 0.1) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(20, 184, 166, 0.1) 0px, transparent 50%),
+    radial-gradient(at 50% 100%, rgba(6, 95, 70, 0.08) 0px, transparent 50%);
+}
+
+/* Glowy Phrase and Ambient Blur Animations */
+@keyframes glowyTextPulse {
+  0%, 100% {
+    text-shadow: 0 0 20px rgba(137, 170, 204, 0.2), 0 0 40px rgba(137, 170, 204, 0.1);
+    opacity: 0.95;
+  }
+  50% {
+    text-shadow: 0 0 35px rgba(137, 170, 204, 0.6), 0 0 70px rgba(137, 170, 204, 0.3);
+    opacity: 1;
+  }
+}
+
+.glowy-phrase {
+  animation: glowyTextPulse 3s infinite ease-in-out;
+}
+
+@keyframes spinSlow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spinSlow 20s linear infinite;
+}
+
