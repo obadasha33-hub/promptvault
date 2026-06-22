@@ -8,7 +8,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على بورتريه شخصية سيبرانية.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_1.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -20,7 +20,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على صورة رأس للمدير التنفيذي.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_2.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -32,7 +32,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_3.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -44,7 +44,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_4.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -56,7 +56,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_5.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -68,7 +68,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على سيارة رياضية كهربائية أنيقة.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_6.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -80,7 +80,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على فنجان قهوة زجاجي بسيط.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_7.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -92,7 +92,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على ساعة كرونوغراف ميكانيكية.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_8.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -104,7 +104,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على كوخ خشبي ريفي في الغابة.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_9.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -116,7 +116,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء دمج خيال الغابة بالتعرض المزدوج على مكتب عمل حديث.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_10.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Double Exposure Forest Silhouette Blend.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -128,7 +128,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على بورتريه شخصية سيبرانية.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_11.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -140,7 +140,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على صورة رأس للمدير التنفيذي.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_12.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -152,7 +152,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_13.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -164,7 +164,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_14.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -176,7 +176,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_15.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -188,7 +188,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على سيارة رياضية كهربائية أنيقة.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_16.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -200,7 +200,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على فنجان قهوة زجاجي بسيط.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_17.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -212,7 +212,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على ساعة كرونوغراف ميكانيكية.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_18.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -224,7 +224,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على كوخ خشبي ريفي في الغابة.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_19.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -236,7 +236,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء شبكة مسح هولوجرام خيال علمي على مكتب عمل حديث.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_20.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Sci-Fi Holographic Scanner Grid Projector.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -248,7 +248,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على بورتريه شخصية سيبرانية.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_21.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -260,7 +260,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على صورة رأس للمدير التنفيذي.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_22.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -272,7 +272,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_23.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -284,7 +284,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_24.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -296,7 +296,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_25.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -308,7 +308,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على سيارة رياضية كهربائية أنيقة.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_26.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -320,7 +320,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على فنجان قهوة زجاجي بسيط.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_27.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -332,7 +332,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على ساعة كرونوغراف ميكانيكية.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_28.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -344,7 +344,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على كوخ خشبي ريفي في الغابة.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_29.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -356,7 +356,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إعادة إضاءة حافة الاستوديو على مكتب عمل حديث.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_30.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Studio Rim Light Relighting Studio.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -368,7 +368,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على بورتريه شخصية سيبرانية.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_31.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -380,7 +380,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على صورة رأس للمدير التنفيذي.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_32.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -392,7 +392,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_33.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -404,7 +404,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_34.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -416,7 +416,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_35.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -428,7 +428,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على سيارة رياضية كهربائية أنيقة.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_36.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -440,7 +440,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على فنجان قهوة زجاجي بسيط.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_37.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -452,7 +452,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على ساعة كرونوغراف ميكانيكية.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_38.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -464,7 +464,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على كوخ خشبي ريفي في الغابة.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_39.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -476,7 +476,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء إضافة حبيبات فيلم مونوكروم كلاسيكي على مكتب عمل حديث.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_40.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Vintage Film Monochrome Grain Injector.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -488,7 +488,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على بورتريه شخصية سيبرانية.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_41.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -500,7 +500,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على صورة رأس للمدير التنفيذي.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_42.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -512,7 +512,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_43.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -524,7 +524,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_44.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -536,7 +536,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_45.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -548,7 +548,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على سيارة رياضية كهربائية أنيقة.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_46.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -560,7 +560,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على فنجان قهوة زجاجي بسيط.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_47.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -572,7 +572,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على ساعة كرونوغراف ميكانيكية.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_48.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -584,7 +584,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على كوخ خشبي ريفي في الغابة.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_49.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -596,7 +596,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء عزل وإضاءة الغروب الذهبي على مكتب عمل حديث.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_50.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Golden Hour Meadow Sunset Reflector.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -608,7 +608,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على بورتريه شخصية سيبرانية.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_51.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -620,7 +620,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على صورة رأس للمدير التنفيذي.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_52.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -632,7 +632,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_53.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -644,7 +644,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_54.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -656,7 +656,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_55.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -668,7 +668,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على سيارة رياضية كهربائية أنيقة.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_56.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -680,7 +680,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على فنجان قهوة زجاجي بسيط.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_57.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -692,7 +692,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على ساعة كرونوغراف ميكانيكية.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_58.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -704,7 +704,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على كوخ خشبي ريفي في الغابة.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_59.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -716,7 +716,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تركيب لوحة رقبة ميكانيكية سيبرانية على مكتب عمل حديث.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_60.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Cybernetic Mechanical Neck-Plate Composite.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -728,7 +728,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على بورتريه شخصية سيبرانية.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_61.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -740,7 +740,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على صورة رأس للمدير التنفيذي.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_62.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -752,7 +752,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_63.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -764,7 +764,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_64.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -776,7 +776,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_65.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -788,7 +788,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على سيارة رياضية كهربائية أنيقة.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_66.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -800,7 +800,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على فنجان قهوة زجاجي بسيط.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_67.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -812,7 +812,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على ساعة كرونوغراف ميكانيكية.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_68.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -824,7 +824,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على كوخ خشبي ريفي في الغابة.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_69.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -836,7 +836,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء استبدال قماش الملابس بالحرير الزمردي على مكتب عمل حديث.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_70.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Apparel Silk Emerald Green Swapper.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -848,7 +848,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على بورتريه شخصية سيبرانية.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_71.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -860,7 +860,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على صورة رأس للمدير التنفيذي.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_72.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -872,7 +872,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_73.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -884,7 +884,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_74.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -896,7 +896,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_75.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -908,7 +908,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على سيارة رياضية كهربائية أنيقة.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_76.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -920,7 +920,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على فنجان قهوة زجاجي بسيط.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_77.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -932,7 +932,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على ساعة كرونوغراف ميكانيكية.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_78.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -944,7 +944,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على كوخ خشبي ريفي في الغابة.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_79.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -956,7 +956,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تأثير إضاءة مائية وأمواج تركوازية على مكتب عمل حديث.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_80.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Underwater Turquoise Glow Caustics Generator.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -968,7 +968,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على بورتريه شخصية سيبرانية.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_81.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -980,7 +980,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على صورة رأس للمدير التنفيذي.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_82.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -992,7 +992,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_83.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1004,7 +1004,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_84.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1016,7 +1016,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_85.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1028,7 +1028,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على سيارة رياضية كهربائية أنيقة.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_86.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1040,7 +1040,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على فنجان قهوة زجاجي بسيط.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_87.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1052,7 +1052,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على ساعة كرونوغراف ميكانيكية.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_88.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1064,7 +1064,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على كوخ خشبي ريفي في الغابة.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_89.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1076,7 +1076,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تدرج لوني سينمائي تيل وأورانج على مكتب عمل حديث.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_90.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Split Toning Cinematic Teal & Orange Shader.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1088,7 +1088,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على بورتريه شخصية سيبرانية.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_91.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Cyberpunk character portrait.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n2. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1100,7 +1100,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على صورة رأس للمدير التنفيذي.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_92.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Corporate executive headshot.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n2. Lock key facial proportions and details while adjusting secondary background plates.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1112,7 +1112,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على زجاجة منتج العناية بالبشرة الفاخر.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_93.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: High-end skincare product bottle.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Maintain strict structural boundary limits using advanced edge detection masks.\n2. Output precise layer details, overlay percentages, and layer mask settings.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1124,7 +1124,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على عارضة أزياء كلاسيكية من العشرينات.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_94.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Vintage 1920s fashion model.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Simulate chromatic aberration and camera lens flare for organic realism.\n2. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1136,7 +1136,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على بوابة خيالية عائمة في مشهد طبيعي.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_95.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Surreal floating portal landscape.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Integrate volumetric light beams and atmospheric fog particles seamlessly.\n2. Match grain structure of a 35mm film camera across the final composited layers.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1148,7 +1148,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على سيارة رياضية كهربائية أنيقة.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_96.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Sleek electric sports car.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Lock key facial proportions and details while adjusting secondary background plates.\n2. Align light cast and ambient occlusion shadows with the secondary light source.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1160,7 +1160,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على فنجان قهوة زجاجي بسيط.",
     "model": "Flux 1.1 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_97.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Flux 1.1 Pro\nINPUT_SUBJECT: Minimalist glass coffee cup.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Output precise layer details, overlay percentages, and layer mask settings.\n2. Preserve raw fabric/skin textures without introducing artificial plastic blur.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1172,7 +1172,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على ساعة كرونوغراف ميكانيكية.",
     "model": "Midjourney v7",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_98.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Midjourney v7\nINPUT_SUBJECT: Mechanical analog chronograph watch.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Ensure perfect edge blending with custom alpha masks to avoid artifacts.\n2. Calibrate contrast levels and HSL channel mappings for maximum dynamic range.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1184,7 +1184,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على كوخ خشبي ريفي في الغابة.",
     "model": "Claude 4.8 Opus",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_99.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Claude 4.8 Opus\nINPUT_SUBJECT: Rustic wooden forest cabin.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Match grain structure of a 35mm film camera across the final composited layers.\n2. Maintain strict structural boundary limits using advanced edge detection masks.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {
@@ -1196,7 +1196,7 @@
     "description_ar": "طريقة تعديل متقدمة لإجراء تنعيم بشرة البورتريه بفصل الترددات على مكتب عمل حديث.",
     "model": "Gemini 3.5 Pro",
     "category": "Photo Editing",
-    "image_url": "",
+    "image_url": "/uploads/edit_100.jpg",
     "body": "SYSTEM_ROLE: Expert Creative Digital Retoucher & Composite Specialist.\nMODEL_TARGET: Gemini 3.5 Pro\nINPUT_SUBJECT: Modern workspace desk setup.\nCOMPOSITE TECHNIQUE: Frequency Separation Portrait Skin Retoucher.\nEXECUTION GUIDELINES:\n1. Align light cast and ambient occlusion shadows with the secondary light source.\n2. Simulate chromatic aberration and camera lens flare for organic realism.\n3. Keep original grain structure consistent across all layer overlays.\n4. Adjust shadow and highlights mapping to preserve natural light casting.\nOUTPUT FORMAT: Provide a structured breakdown of layers, opacity levels, layer mask coordinates, and blend modes."
   },
   {

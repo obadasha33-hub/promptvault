@@ -13,9 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Terminal Mock Security Auth Gate**: Developed a glassmorphic mock security console terminal to show live connection diagnostics, current encryption state telemetry, and security status symbols for logged-out states.
 - **Professional Project Documentation**: Wrote and detailed a professional `README.md` containing core features, repository topology, configuration parameters, and execution instructions.
 - **GitHub Integration**: Configured remote tracking and successfully pushed the codebase to `https://github.com/obadasha33-hub/promptvault.git`.
+- **Photo Editing Preview Assets**: Restored all high-resolution image URL attachments (`/uploads/edit_*.jpg`) for the 100 prompts under the `Photo Editing` category.
 
-### Changed
-- **Creative Sandbox Routing**: Removed all navigation buttons and links to `/creative` from the main landing page `/` (header, footers, mobile tabs) to restrict public visibility of the creative sandbox workspace.
+### Removed
+- **Creative Sandbox Mode**: Deleted the `src/app/creative` route directory and cleaned up all references and compiling cached type declarations, fully purging the creative sandbox from the project.
 
 ## [1.0.0] - 2026-06-21
 
