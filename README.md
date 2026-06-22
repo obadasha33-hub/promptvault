@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VibePrompt Hub
 
-## Getting Started
+VibePrompt Hub is a professional, cosmic-themed prompt-engineering workstation and UI playground designed for the era of "vibe coding." Inspired by state-of-the-art IDE design aesthetics, it combines a high-fidelity stardust particle system, responsive bento grids, full Arabic (RTL) localizations, and a glassmorphic authorization security console.
 
-First, run the development server:
+---
+
+## 🌌 Core Features
+
+### 1. Interactive Star Dust Particle Engine
+* **Dynamic Physics**: An HTML5 Canvas particle system tracking cursor movements.
+* **Theme Synchronization**: Particles emit fluid HSL color streams tailored dynamically to the active interface theme.
+
+### 2. Glassmorphic Mock Authorization Console
+* **Diagnostics Terminal**: Visualizes telemetry logs, active encryption algorithms, and secure connection statuses.
+* **Authentication Gate**: Fully integrated authentication flow using Clerk.
+
+### 3. Cosmic Bento Workspace
+* **Smooth Transitions**: Hover-raising cards with strict layout-shift mitigation.
+* **Interactive Code Blocks**: Syntax-highlighted prompt showcases with one-click flash copy buttons.
+* **Progress Tracking**: Top-mounted reading progress indicator tracking scroll metrics.
+
+### 4. Arabic Localization (RTL Support)
+* **Fluid Layout Mirroring**: Implements native `dir="rtl"` layout toggles with zero layout breakage.
+* **Localized Context**: Complete translation catalogues covering all terminal outputs, prompt parameters, and interfaces.
+
+### 5. Local Storage Persistence
+* **Theme Preferences**: Toggle between Dark, Light, and Cyberpunk themes with settings persisting across sessions.
+* **Bookmark Manager**: Offline saving of prompt logs and components.
+
+---
+
+## 🛠️ Technology Stack
+
+* **Framework**: [Next.js](https://nextjs.org/) (App Router, React 19)
+* **Language**: [TypeScript](https://www.typescriptlang.org/) for static type-safety
+* **Styling**: [TailwindCSS](https://tailwindcss.com/) for cosmic design tokens and utilities
+* **Authentication**: [Clerk](https://clerk.com/) for user management
+* **Database**: [Supabase](https://supabase.com/) for backend analytics and logs
+* **Testing**: [Vitest](https://vitest.dev/) for unit and integration testing
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) (v18.x or later) and `npm` installed.
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/obadasha33-hub/promptvault.git
+cd promptvault
+npm install
+```
+
+### Configuration
+
+Create a `.env.local` file in the root directory and add your keys:
+
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
+CLERK_SECRET_KEY=your-clerk-secret-key
+NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+```
+
+### Running Locally
+
+To run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Running Tests
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+To run the unit tests:
 
-## Learn More
+```bash
+npm run test
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Production Build
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To compile a production-ready package:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm run build
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📂 Repository Structure
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```text
+├── public/                 # Static assets and icons
+├── src/
+│   ├── app/                # Next.js App Router pages
+│   │   ├── page.tsx        # Cosmic Landing workstation
+│   │   ├── layout.tsx      # Core root layout
+│   │   └── creative/       # Isolated sandbox workspace
+│   ├── components/         # Reusable React components
+│   │   ├── StarDustCanvas  # Interactive canvas particle emitter
+│   │   └── ui/             # Glassmorphic primitives
+│   ├── lib/                # Database/Auth helpers
+│   └── styles/             # Global CSS & Tailwind configuration
+├── vitest.config.ts        # Test configuration
+└── package.json            # Scripts & project metadata
+```
