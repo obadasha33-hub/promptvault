@@ -870,7 +870,7 @@ function StarDustCanvas({ theme }: { theme: 'neon' | 'cyberpunk' | 'terminal' | 
         const colors = ['#2563eb', '#1d4ed8', '#94a3b8', '#3b82f6'];
         return colors[Math.floor(Math.random() * colors.length)];
       } else {
-        const colors = ['#89AACC', '#4E85BF', '#38bdf8', '#818cf8'];
+        const colors = ['#c084fc', '#60a5fa', '#f472b6', '#ffffff', '#a78bfa'];
         return colors[Math.floor(Math.random() * colors.length)];
       }
     };
@@ -916,7 +916,7 @@ function StarDustCanvas({ theme }: { theme: 'neon' | 'cyberpunk' | 'terminal' | 
         vy: (Math.random() - 0.5) * 0.3,
         size: Math.random() * 1.6 + 0.4,
         alpha: Math.random() * 0.6 + 0.1,
-        color: theme === 'alabaster' ? 'rgba(0, 0, 0, 0.15)' : 'rgba(255, 255, 255, 0.4)',
+        color: theme === 'alabaster' ? 'rgba(0, 0, 0, 0.15)' : 'rgba(255, 255, 255, 0.6)',
         life: 0,
         maxLife: Math.random() * 250 + 100,
       });
@@ -2522,7 +2522,7 @@ print(response.text)`;
                 {/* Visual Options Grid */}
                 <div className="space-y-2">
                   {[
-                    { id: 'neon', name: 'NEON', bg: '#060811', fg: '#dfe2f1', primary: '#89AACC', secondary: '#4E85BF', desc: 'Cyberpunk console with standard telemetry glow.' },
+                    { id: 'neon', name: 'NEBULA', bg: '#000000', fg: '#ffffff', primary: '#c084fc', secondary: '#60a5fa', desc: 'High-contrast space console with floating stardust particles.' },
                     { id: 'cyberpunk', name: 'CYBERPUNK', bg: '#0f051d', fg: '#f8f0ff', primary: '#ff007f', secondary: '#ffea00', desc: 'Dynamic synthetic interface with saturated pink & gold.' },
                     { id: 'terminal', name: 'TERMINAL', bg: '#000000', fg: '#00ff66', primary: '#ffb000', secondary: '#00ff66', desc: 'Monospaced carbon console with matrix phosphorus decay.' },
                     { id: 'alabaster', name: 'ALABASTER', bg: '#f4f6fa', fg: '#1e2433', primary: '#4b6b94', secondary: '#2c3e50', desc: 'Polarized light mode, high-density paper-white layout.' }

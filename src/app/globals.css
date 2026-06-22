@@ -2,17 +2,17 @@
 @import "tailwindcss";
 
 :root, html[data-theme='neon'] {
-  --background: #060811;
-  --foreground: #dfe2f1;
-  --neon-cyan: #89AACC;
-  --neon-blue: #4E85BF;
-  --border-glow: rgba(137, 170, 204, 0.15);
-  --glow-1: rgba(76, 215, 246, 0.04);
-  --glow-2: rgba(208, 188, 255, 0.04);
-  --glow-3: rgba(255, 185, 95, 0.03);
-  --panel-bg: rgba(9, 13, 28, 0.7);
-  --card-bg: rgba(15, 20, 38, 0.85);
-  --input-bg: rgba(0, 0, 0, 0.55);
+  --background: #000000;
+  --foreground: #ffffff;
+  --neon-cyan: #c084fc; /* High contrast stardust purple */
+  --neon-blue: #60a5fa; /* High contrast stardust blue */
+  --border-glow: rgba(192, 132, 252, 0.35);
+  --glow-1: rgba(192, 132, 252, 0.18); /* Purple nebula glow */
+  --glow-2: rgba(96, 165, 250, 0.15);  /* Blue nebula glow */
+  --glow-3: rgba(244, 114, 182, 0.08);  /* Pink stardust dust */
+  --panel-bg: rgba(6, 6, 8, 0.85);      /* Pitch black translucent panel */
+  --card-bg: rgba(12, 12, 16, 0.95);    /* Pure black high contrast card */
+  --input-bg: rgba(0, 0, 0, 0.95);      /* Solid black inputs */
 }
 
 html[data-theme='cyberpunk'] {
